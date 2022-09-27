@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<employees>
+  <employee id="111">
+    <firstName>Lokesh</firstName>
+    <lastName>Gupta</lastName>
+    <location>India</location>
+    <age>56</age>
+  </employee>
+  <employee id="222">
+    <firstName>Alex</firstName>
+    <lastName>Gussin</lastName>
+    <location>Russia</location>
+    <age>20</age>
+  </employee>
+  <employee id="333">
+    <firstName>Ivan</firstName>
+    <lastName>Ivanov</lastName>
+    <location>Russia</location>
+    <age>20</age>
+  </employee>
+  <employee id="444">
+    <firstName>David</firstName>
+    <lastName>Feezor</lastName>
+    <location>USA</location>
+    <age>33</age>
+  </employee>
+</employees>
